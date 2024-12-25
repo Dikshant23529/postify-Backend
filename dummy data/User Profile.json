@@ -1,0 +1,16 @@
+{
+    "name": "John",
+    "middleName": "David",
+    "lastName": "Doe",
+    "address": "123 Main Street, Anytown, CA 91234",
+    "gitHubProfile": "https://github.com/johndoe",
+    "linkedinProfile": "https://www.linkedin.com/in/johndoe",
+    "otherLinks": [
+      "https://example.com/blog",
+      "https://example.com/personal"
+    ],
+    "portFolioLink": "https://johndoeportfolio.com",
+    "phoneNo": "555-123-4567",
+    "dateOfBirth": "1990-05-15",
+    "profileImage": "https://example.com/images/profile.jpg"
+  }
